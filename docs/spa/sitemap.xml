@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/spa/</loc>
+    <loc>https://helloimvictor.github.io/NiceToMeetYou/spa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://helloimvictor.github.io/NiceToMeetYou/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="spa"
-                href="https://example.com/spa/"
+                href="https://helloimvictor.github.io/NiceToMeetYou/spa/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/spa/categories/</loc>
+    <loc>https://helloimvictor.github.io/NiceToMeetYou/spa/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://helloimvictor.github.io/NiceToMeetYou/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="spa"
-                href="https://example.com/spa/categories/"
+                href="https://helloimvictor.github.io/NiceToMeetYou/spa/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/spa/series/</loc>
+    <loc>https://helloimvictor.github.io/NiceToMeetYou/spa/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://helloimvictor.github.io/NiceToMeetYou/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="spa"
-                href="https://example.com/spa/series/"
+                href="https://helloimvictor.github.io/NiceToMeetYou/spa/series/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/spa/tags/</loc>
+    <loc>https://helloimvictor.github.io/NiceToMeetYou/spa/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://helloimvictor.github.io/NiceToMeetYou/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="spa"
-                href="https://example.com/spa/tags/"
+                href="https://helloimvictor.github.io/NiceToMeetYou/spa/tags/"
                 />
   </url>
   

@@ -3,7 +3,7 @@ title   = ">Nice to Meet You"
 languageCode = "en-us"
 theme = "HelloFriend"
 publishDir = "docs"
-
+themeDir = "themes"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 

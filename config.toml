@@ -2,6 +2,7 @@ baseURL = "https://example.com"
 title   = ">Nice to Meet You"
 languageCode = "en-us"
 theme = "HelloFriend"
+publishDir = "docs"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -17,7 +18,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+#PUBLISHDIR WAS ORIGINALLY HERE
 
 buildDrafts  = false
 buildFuture  = false

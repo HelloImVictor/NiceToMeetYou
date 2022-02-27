@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/spa/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="spa"
+                href="https://example.com/spa/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/spa/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="spa"
+                href="https://example.com/spa/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/spa/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="spa"
+                href="https://example.com/spa/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/spa/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="spa"
+                href="https://example.com/spa/tags/"
+                />
+  </url>
+  
+</urlset>

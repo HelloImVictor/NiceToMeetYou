@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://helloimvictor.github.io/NiceToMeetYou/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://helloimvictor.github.io/NiceToMeetYou/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a New Theme</title>
       <link>https://helloimvictor.github.io/NiceToMeetYou/posts/2014/09/creating-a-new-theme/</link>
@@ -29,19 +25,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       
       <guid>https://helloimvictor.github.io/NiceToMeetYou/posts/2014/03/migrate-to-hugo-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://helloimvictor.github.io/NiceToMeetYou/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://helloimvictor.github.io/NiceToMeetYou/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
+▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
@@ -66,6 +51,15 @@ More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>About Me.</title>
+      <link>https://helloimvictor.github.io/NiceToMeetYou/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://helloimvictor.github.io/NiceToMeetYou/about/</guid>
+      <description>public class AboutPage { public static void main(String[] args){ String str = new String(&amp;#34;Welcome to my about page im glad you made it); //INCASE you couldnt read that this is basically my warm welcome to my about me page. Hi, Im Victor</description>
     </item>
     
   </channel>

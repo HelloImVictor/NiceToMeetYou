@@ -1,19 +1,14 @@
 +++
-title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
-[ author ]
-  name = "Hugo Authors"
+title = "About Me."
+date = "2022-28-2"
+#aliases = ["about-us","about-hugo","contact"]
+#[ author ]
+  name = "Victor Mallo"
 +++
-
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+```java
+public class AboutPage {
+	public static void main(String[] args){
+		String str = new String("Welcome to my about page im glad you made it);
+		//INCASE you couldnt read that this is basically my warm welcome to my about me page.
+```
+Hi, Im Victor

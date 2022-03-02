@@ -8,6 +8,8 @@
     <loc>https://helloimvictor.github.io/NiceToMeetYou/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://helloimvictor.github.io/NiceToMeetYou/about/</loc>
+  </url><url>
     <loc>https://helloimvictor.github.io/NiceToMeetYou/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -95,7 +97,5 @@
   </url><url>
     <loc>https://helloimvictor.github.io/NiceToMeetYou/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://helloimvictor.github.io/NiceToMeetYou/about/</loc>
   </url>
 </urlset>

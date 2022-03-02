@@ -30,6 +30,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>About Me.</title>
+      <link>https://helloimvictor.github.io/NiceToMeetYou/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://helloimvictor.github.io/NiceToMeetYou/about/</guid>
+      <description>cout &amp;lt;&amp;lt; &amp;#34;Hello, World! \n&amp;#34;; cout &amp;lt;&amp;lt; &amp;#34;I &amp;lt;3 GitHub.com&amp;#34; &amp;lt;&amp;lt; endl; Introduction Hi there! I&amp;rsquo;m Victor Mallo I currently reside in Florida and I am a computer engineering student at Valencia college in a transfer program into the University of Central Florida where I also am currently taking the Certified Cybersecurity Professional Course where I will have a total of 400 contact hours of labs, scenarios, and technical topics.</description>
+    </item>
+    
+    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://helloimvictor.github.io/NiceToMeetYou/posts/2014/04/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -51,15 +60,6 @@ More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>About Me.</title>
-      <link>https://helloimvictor.github.io/NiceToMeetYou/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://helloimvictor.github.io/NiceToMeetYou/about/</guid>
-      <description>public class AboutPage { public static void main(String[] args){ String str = new String(&amp;#34;Welcome to my about page im glad you made it); //INCASE you couldnt read that this is basically my warm welcome to my about me page. Hi, Im Victor</description>
     </item>
     
   </channel>
